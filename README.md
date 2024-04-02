@@ -46,10 +46,10 @@ https://nominatim.org/release-docs/develop/api/Overview/
  ### Instructions to use the repo
 - You can clone the repo by using HTTP: 
 
-[https://github.com/PranavvPrakash/locAll.git](https://github.com/PranavvPrakash/locAll.git)
+[https://github.com/PranavvPrakash/locAll.git](https://github.com/Pranavprak/locAll.git)
 
 OR set up the SSH Key using: 
-git@github.com:PranavvPrakash/locAll.git
+git@github.com:Pranavprak/locAll.git
 
 Commands to use: 
 
